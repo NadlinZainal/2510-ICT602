@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097016010600",
+    "project_id": "carrymark-a941b",
+    "storage_bucket": "carrymark-a941b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097016010600:android:0902eb9d3547c866b598dd",
+        "android_client_info": {
+          "package_name": "com.example.carrymark_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJd_GXw2hMpMjYS_BMEFe3l29v6S3odj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
